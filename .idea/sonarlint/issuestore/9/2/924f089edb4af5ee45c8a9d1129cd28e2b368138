@@ -1,4 +1,27 @@
 
-0
-java:S1220""Move this file to a named package.
-E	java:S106"+Replace this use of System.out by a logger.(‚ŞÏ¥ıÿÿÿÿ
+f
+java:S1192"IDefine a constant instead of duplicating this literal "FizzBuzz" 3 times.(÷ â†8¦±Ñï×1
+j
+java:S1192"HDefine a constant instead of duplicating this literal "Number:" 3 times.(ö—ôÉÿÿÿÿÿ8¬±Ñï×1
+7
+java:S1220""Move this file to a named package.8®±Ñï×1
+¢
+java:S18624"„This branch can not be reached because the condition duplicates a previous condition in the same sequence of "if/else if" statements(ÓÏ½æ8±±Ñï×1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Çµí‘8ì±Ñï×1
+L	java:S106"+Replace this use of System.out by a logger.(ö—ôÉÿÿÿÿÿ8ò±Ñï×1
+G	java:S106"+Replace this use of System.out by a logger.(ñˆ×8ô±Ñï×1
+G	java:S106"+Replace this use of System.out by a logger.(ûş®8õ±Ñï×1
+G	java:S106"+Replace this use of System.out by a logger.(÷ â†8ö±Ñï×1
+L	java:S106"+Replace this use of System.out by a logger.(·ùßóıÿÿÿÿ8ö±Ñï×1
+L	java:S106"+Replace this use of System.out by a logger.(ö—ôÉÿÿÿÿÿ8÷±Ñï×1
+G	java:S106"+Replace this use of System.out by a logger.(÷ â†8ø±Ñï×1
+G	java:S106!"+Replace this use of System.out by a logger.(ñˆ×8ø±Ñï×1
+G	java:S106#"+Replace this use of System.out by a logger.(ûş®8ù±Ñï×1
+F	java:S106&"+Replace this use of System.out by a logger.(»¢üU8ù±Ñï×1
+L	java:S106*"+Replace this use of System.out by a logger.(ö—ôÉÿÿÿÿÿ8ú±Ñï×1
+G	java:S106."+Replace this use of System.out by a logger.(÷ â†8û±Ñï×1
+G	java:S106/"+Replace this use of System.out by a logger.(Û¬¼‡8û±Ñï×1
+G	java:S1065"+Replace this use of System.out by a logger.(ñˆ×8ü±Ñï×1
+G	java:S1068"+Replace this use of System.out by a logger.(ûş®8ı±Ñï×1
+L	java:S106:"+Replace this use of System.out by a logger.(Îİ¼Óûÿÿÿÿ8ı±Ñï×1
