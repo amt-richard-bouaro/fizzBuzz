@@ -5,22 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c7f195d-131c-4dd4-923f-b594f94528f7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/e/6eebc1b4784a1649804e80852148761371c151b3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8af2acc246417ec8e3f1af5b2067b9fbf3a27589" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/e/6eebc1b4784a1649804e80852148761371c151b3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/a/8af2acc246417ec8e3f1af5b2067b9fbf3a27589" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/amalitech/FizzBuzzGame/FizzBuzzGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/amalitech/FizzBuzzGame/FizzBuzzGameOutcomes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/amalitech/FizzBuzzGame/FizzBuzzGameProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/amalitech/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/amalitech/input/UserInputProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/amalitech/input/UserUserInput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/FizzBuzzGameTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fizzBuzz.iml" beforeDir="false" afterPath="$PROJECT_DIR$/fizzBuzz.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,9 +19,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -51,6 +40,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.FizzBuzzGameTest.executor": "Run",
+    "JUnit.FizzBuzzGameTest.testThatPlayMethodReturnsCorrectResult.executor": "Run",
+    "Repository.Attach.Annotations": "true",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -64,6 +59,50 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\RichardBouaro\OneDrive - AmaliTech gGmbH\Desktop\PROJECTS\fizzBuzz\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.FizzBuzzGameTest">
+    <configuration name="FizzBuzzGameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fizzBuzz" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.FizzBuzzGameTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FizzBuzzGameTest.testThatPlayMethodReturnsCorrectResult" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fizzBuzz" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.FizzBuzzGameTest" />
+      <option name="METHOD_NAME" value="testThatPlayMethodReturnsCorrectResult" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FizzBuzzGameTest" />
+        <item itemvalue="JUnit.FizzBuzzGameTest.testThatPlayMethodReturnsCorrectResult" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -72,7 +111,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1707212264880</updated>
-      <workItem from="1707212266524" duration="15012000" />
+      <workItem from="1707212266524" duration="19277000" />
     </task>
     <servers />
   </component>
